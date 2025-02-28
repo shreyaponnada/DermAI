@@ -63,7 +63,7 @@ def predict_acne(model, image_path):
 
 # Example usage:
 
-# Replace with the actual paths to your training and test datasets
+# Replace with the actual paths to training and test datasets
 train_directory = "D:\\Acne"
 validation_directory = "D:\\Acne"
 
